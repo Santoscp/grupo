@@ -10,7 +10,7 @@ package javaapplication6;
  * @author Agustin Jiménez
  */
 public class JavaApplication6 {
-
+  int num=5;
     /**
      * @param args the command line arguments
      */
